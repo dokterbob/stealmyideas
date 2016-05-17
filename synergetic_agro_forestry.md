@@ -22,7 +22,6 @@
 * Methane
 * Fish
 
-
 ## Processes
 * Composting
 * Fermentation
@@ -37,3 +36,7 @@
 * Biomass
 * Biodiversity
 * Output diversity (synergy)
+* Small-scale advantages (local production)
+
+## Difficulties
+* 
