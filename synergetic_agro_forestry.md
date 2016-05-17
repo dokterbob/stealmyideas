@@ -28,6 +28,7 @@
 * Carbon sequestation
 * Forrest gardening
 * Network ecology
+* Aquaculture
 
 ## Maximize
 * Biomass
