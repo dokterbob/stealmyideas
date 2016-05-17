@@ -7,4 +7,9 @@ Rather than furthering the excellent work of Nikola Tesla, it makes sense to try
 
 One such method would be to design a fully decentralized electrical system based on higher (~400V) DC voltages, where focus is put on local or regional energy self-sufficiency: instead of optimizing for low transport losses, optimization is done to maximize local resilience, stability and diversity. The idea is to fully decentralize the storage, production and distribution of energy such that any participant in the electrical grid performs an active role and, by material necessity, has a real but naturally limited power over the implementation of the system. In other words; participants are economically bound to cooperative participation.
 
+However, on a larger scale, local systems *can* and should be connected to other systems, whether 'legacy' AC systems or other autonomous cooperatives. 
 
+More technically, the system would consist of high and lower voltage components, together with decentrally organized algoritms 
+
+## Components
+* 
