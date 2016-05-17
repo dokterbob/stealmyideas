@@ -39,4 +39,9 @@
 * Small-scale advantages (local production)
 
 ## Difficulties
-* 
+* Local knowledge on and involvement in:
+  * Ecosystem monitoring/management
+  * Accounting processes
+  * Fermentation/compostation technology
+  * Access to markets for inputs/outputs
+  * Logistics
