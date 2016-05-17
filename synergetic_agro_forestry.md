@@ -9,6 +9,7 @@ Garbage in, everything out: convert local wastes into diverse, income generating
   * Paper
   * Cooking oil
   * Low-grade chemical waste
+  * Household waste
   * (Hu)manure
 * Atmospheric carbon (carbon credits)
 
