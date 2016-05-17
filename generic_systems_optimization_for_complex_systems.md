@@ -10,7 +10,7 @@ Alternatively, it shoud be possible to design control loops such as to account, 
 
 Of course, care should be taken here to only explore the safe operating space of systems, and in a sense this different type of control structure should be embedded in the very design of systems; in case of failure of the operating circuit of the sytem, it should degrade gracefully to a basic 'unoptimized' way of functioning or temporarily stop to operate. In a sense, it implies that systems should, essentially, be design to fail.
 
-The idea, furthermore, is to design systems such that they are self-optimizing under continuously and qualitatively changing conditions. There could be a collection of algorithms such that, 
+The idea, furthermore, is to design systems such that they are self-optimizing under continuously and qualitatively changing conditions. There could be a collection of algorithms such that, given any amount of inputs and outputs and given certain, potentially dynamic, optimization conditions, the system learns itself how to optimize. Typically, such a problem solving system shoud be 
 
 ### Further notes
 * Account for path-dependence in model creation
