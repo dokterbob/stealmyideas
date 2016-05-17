@@ -9,7 +9,37 @@ One such method would be to design a fully decentralized electrical system based
 
 However, on a larger scale, local systems *can* and should be connected to other systems, whether 'legacy' AC systems or other autonomous cooperatives. This allows for open competition between 'legacy' systems and decentralized alternatives, allowing for a smooth transition and consumer choice. Moreover, it allows for selling and buying of energy and storage capacity on larger scales - enabling the inclusion of necessarily larger-scale production and storage methods such as existing hydroelectrical projects.
 
-More technically, the system would consist of high and lower voltage components, together with decentrally organized algoritms that govern the storage, transport, generation and consumption of electrical energy. The lower voltage can be different per connected unit, but will typically be a common low voltage such as 12, 24 or 48 V. The higher voltage end will be varying voltage between 360 and 400V; the voltage itself, together with internet-based data-exchange, will be leading in determining the behaviour of nodes in the network.
+More technically, the system would consist of high and lower voltage components, together with decentrally organized algoritms that govern the storage, transport, generation and consumption of electrical energy. The lower voltage can be different per connected unit, but will typically be a safe, common, low voltage such as 48V. The higher voltage end will be varying voltage between 360 and 400V; the voltage itself, together with internet-based data-exchange, will be leading in determining the behaviour of nodes in the network.
 
 ## Components
-* 
+### DC/DC Convertion modules
+#### AC Turbines (source)
+* 2-phase AC -> 400 VDC
+* 3-phase AC -> 400 VDC
+
+#### Turbine/motor combination (source/sink)
+* 2-phase AC <-> 360-400 VDC
+* 3-phase AC <-> 360-400 VDC
+
+#### Photovoltaic (source)
+* LV DC -> 400 VDC (MPPT)
+
+#### DC sinks
+* 360-400 VDC -> ~48 VDC (in-house voltage, high-tolerance/high-power sinks)
+* ~48 VDC -> 5-24 VDC (digital household devices)
+
+#### AC sinks (legacy devices)
+* 360-400 VDC -> 230 VAC 
+* 360-400 VDC -> 380 VAC
+
+#### Battery storage (source/sink)
+* LV DC <-> 360-380 VDC
+
+#### Bus interconnect (flow to/from other nodes/households)
+* 360-400 VDC <-> 360-400 VDC
+
+### Communication
+1. Bus voltage changes (360-380 VDC for sinks, 380-400 VDC for sources)
+2. Encrypted IPv6 over PLC/ZigBee/Wifi for accounting and high-level/long-term supply/demand management
+3. Centrally *signed* firmware updates with rollback
+4. 
