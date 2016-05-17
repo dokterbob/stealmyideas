@@ -9,7 +9,7 @@ One such method would be to design a fully decentralized electrical system based
 
 However, on a larger scale, local systems *can* and should be connected to other systems, whether 'legacy' AC systems or other autonomous cooperatives. This allows for open competition between 'legacy' systems and decentralized alternatives, allowing for a smooth transition and consumer choice. Moreover, it allows for selling and buying of energy and storage capacity on larger scales - enabling the inclusion of necessarily larger-scale production and storage methods such as existing hydroelectrical projects.
 
-More technically, the system would consist of high and lower voltage components, together with decentrally organized algoritms that govern the storage, transport, generation and consumption of electrical energy.
+More technically, the system would consist of high and lower voltage components, together with decentrally organized algoritms that govern the storage, transport, generation and consumption of electrical energy. The lower voltage can be different per connected unit, but will typically be a common low voltage such as 12, 24 or 48 V. The higher voltage end will be varying voltage between 360 and 400V; the voltage itself, together with internet-based data-exchange, will be leading in determining the behaviour of nodes in the network.
 
 ## Components
 * 
