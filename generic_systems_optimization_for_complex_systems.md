@@ -1,2 +1,3 @@
-# Generic Systems Optimization for Complex Systems
+# Cybernetic Optimization for Complex Systems
 
+Generally, feed
