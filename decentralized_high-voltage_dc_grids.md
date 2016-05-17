@@ -18,8 +18,8 @@ More technically, the system would consist of high and lower voltage components,
 * 3-phase 0-400 VAC -> 400 VDC
 
 #### Turbine/motor combination (source/sink)
-* 2-phase AC <-> 360-400 VDC
-* 3-phase AC <-> 360-400 VDC
+* 2-phase 0-400 VAC <-> 360-400 VDC
+* 3-phase 0-400 VAC <-> 360-400 VDC
 
 #### Photovoltaic (source)
 * LV DC -> 400 VDC (nano-MPPT, per panel)
