@@ -1,7 +1,7 @@
 # Synergetic Agro Forrestry
 Garbage in, everything out: convert local 'wastes' into diverse, income generating forrest gardens, reducing pollution, generating fertile soil and sequestering carbon.
 
-Use knowledge on sustainable forrestry, agriculture, fermentation, ecology and economy to create business models offsetting the yield model of monoculture wood production (such as eucalypt) as land use by a magnitude while retaining local autonomy by stimulating local exchange networks and performing all required processes within local economies.
+Use knowledge on sustainable forrestry, agriculture, fermentation, ecology and economy to create business models offsetting the yield model of monoculture wood production (such as eucalypt) as land use by a magnitude while retaining regional autonomy by stimulating local exchange networks and performing all required processes within local economies.
 ## Inputs
 * Organic 'wastes'
   * Wood chips
