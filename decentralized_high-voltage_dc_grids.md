@@ -14,8 +14,8 @@ More technically, the system would consist of high and lower voltage components,
 ## Components
 ### DC/DC Convertion modules
 #### AC Turbines (source)
-* 2-phase AC -> 400 VDC
-* 3-phase AC -> 400 VDC
+* 2-phase 0-400 VAC -> 400 VDC
+* 3-phase 0-400 VAC -> 400 VDC
 
 #### Turbine/motor combination (source/sink)
 * 2-phase AC <-> 360-400 VDC
