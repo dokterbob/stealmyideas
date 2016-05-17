@@ -3,7 +3,7 @@
 * Organic 'wastes':
   * Wood chips
   * Sawdust
-  * Carbon-rich agriculture waste
+  * Carbon-rich agricultural 'waste'
   * 
 
 ## Outputs
