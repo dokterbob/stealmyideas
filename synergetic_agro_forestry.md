@@ -20,11 +20,16 @@
 * Bio-fertilizer
 * Biodiesel
 * Methane
-* 
 
 
 ## Processes
 * Composting
 * Fermentation
 * Carbon sequestation
-* Forrestry
+* Forrest gardening
+* Network ecology
+
+## Maximize
+* Biomass
+* Biodiversity
+* Output diversity (synergy)
