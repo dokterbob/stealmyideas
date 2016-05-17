@@ -1,7 +1,7 @@
 # Synergetic Agro Forrestry
 Garbage in, everything out: convert local 'wastes' into diverse, income generating forrest gardens, reducing pollution, generating fertile soil and sequestering carbon.
 
-The idea is to generate alternative models for land use to offset 
+Use knowledge on sustainable forrestry, agriculture, fermentation, ecology and economy to create business models offsetting the yield model of monoculture wood production (such as eucalypt) as land use by 
 ## Inputs
 * Organic 'wastes'
   * Wood chips
