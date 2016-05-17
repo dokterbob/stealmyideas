@@ -38,8 +38,14 @@ More technically, the system would consist of high and lower voltage components,
 #### Bus interconnect (flow to/from other nodes/households)
 * 360-400 VDC <-> 360-400 VDC
 
-### Communication
+### Energy router
+Every point were different sources or sinks interconnect are equipped with a generic power router, essentially a central bus controller for the 360-400 VDC bus. The power router controls individual DC/DC convertor modules, is internet-connected and performs decentralized management of the grid together with peer routers.
+
+#### Communication
 1. Bus voltage changes (360-380 VDC for sinks, 380-400 VDC for sources)
-2. Encrypted IPv6 over PLC/ZigBee/Wifi for accounting and high-level/long-term supply/demand management
-3. Centrally *signed* firmware updates with rollback
-4. 
+2. IPv6 over PLC/ZigBee/Wifi for accounting and high-level/long-term supply/demand management
+
+#### Security
+1. Centrally *signed* firmware updates with rollback
+2. Communication fully encrypted using existing, battle-tested, protocols
+4. Microcontrollers for power conversion hermetically seperated from system control logic 
