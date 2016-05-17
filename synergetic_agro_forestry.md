@@ -8,8 +8,8 @@
   * Paper
   * Cooking oil
   * Low-grade chemical waste
-  * 
-* Atmospheric carbon
+  * (Hu)manure
+* Atmospheric carbon (carbon credits)
 
 ## Outputs
 * Honey
@@ -20,6 +20,7 @@
 * Bio-fertilizer
 * Biodiesel
 * Methane
+* Fish
 
 
 ## Processes
@@ -28,7 +29,9 @@
 * Carbon sequestation
 * Forrest gardening
 * Network ecology
+* Ecosystem monitoring
 * Aquaculture
+* Accounting
 
 ## Maximize
 * Biomass
