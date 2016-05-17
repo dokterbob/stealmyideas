@@ -22,7 +22,7 @@ More technically, the system would consist of high and lower voltage components,
 * 3-phase AC <-> 360-400 VDC
 
 #### Photovoltaic (source)
-* LV DC -> 400 VDC (MPPT)
+* LV DC -> 400 VDC (nano-MPPT, per panel)
 
 #### DC sinks
 * 360-400 VDC -> ~48 VDC (in-house voltage, high-tolerance/high-power sinks)
