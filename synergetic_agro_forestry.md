@@ -3,7 +3,10 @@ Garbage in, everything out: convert local 'wastes' into diverse, income generati
 
 Use knowledge on sustainable forrestry, agriculture, fermentation, ecology and economy to create business models offsetting the yield model of monoculture wood production (such as eucalypt) as land use by a magnitude while retaining regional autonomy by stimulating local exchange networks and performing all required processes within local economies.
 
-The latter are also the main difficulties of this concept: while not biologically or chemically necessary, fermentation and composting of diverse organic wastes is usually done at larger industrially scales. The difficulty here lies mainly in reducing the overhead in the associated monitoring and accounting processes, so that 
+The latter are also the main difficulties of this concept: while not biologically or chemically necessary, fermentation and composting of diverse organic wastes is usually done at larger industrially scales. The difficulty here lies mainly in reducing the overhead in the associated monitoring and accounting processes, so that metabolic processes can be carefully managed such that output pollution levels remain at safe rates regardless of input pollution levels.
+
+Hence, this is one area where centralized knowledge is, as of yet, a limiting factor. As with other knowledge-limited processes, it is necessary to succesfully demonstrate this business model only once, as long as lessons learned are openly shared.
+
 ## Inputs
 * Organic 'wastes'
   * Wood chips
