@@ -10,7 +10,11 @@ Alternatively, it shoud be possible to design control loops such as to account, 
 
 Of course, care should be taken here to only explore the safe operating space of systems, and in a sense this different type of control structure should be embedded in the very design of systems; in case of failure of the operating circuit of the sytem, it should degrade gracefully to a basic 'unoptimized' way of functioning or temporarily stop to operate. In a sense, it implies that systems should, essentially, be design to fail.
 
-The idea, furthermore, is to design systems such that they are self-optimizing under continuously and qualitatively changing conditions. There could be a collection of algorithms such that, given any amount of inputs and outputs and given certain, potentially dynamic, optimization conditions, the system learns itself how to optimize. Typically, such a problem solving system shoud be 
+The idea, furthermore, is to design systems such that they are self-optimizing under continuously and qualitatively changing conditions. There could be a collection of algorithms such that, given any amount of inputs and outputs and given certain, potentially dynamic, optimization conditions, the system learns itself how to optimize. 
+
+Typically, such a problem solving system would be fed any known relations or other assumptions about the system (i.e. units of measurement, ranges of inputs and outputs) and a safe domain for fuzzing of the control parameters. Based on this it would create a collection of models based on past behaviour of the system but accounting for hidden interactions and changes in circumstances. These models, together with the given optimization conditions would result in problem sets, the solutions to which encompass optimization strategies. These strategies will be weighed, based on fitting performance of the model, optimization performance and fragility (ability to deal with unexpected perturbations) and based on the weight a different strategy might be chosen at any time.
+
+However, the system continually refines its strategies and models using genetic algorithms together with random perturbations of control strategies and models. Essentially, this means that the system continually 'guesses' models (typically based on a given Ansatz) and then further refines them by combining them with others, all the while combining until sufficient solutions are found.
 
 ### Further notes
 * Account for path-dependence in model creation
