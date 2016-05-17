@@ -1,7 +1,7 @@
 # Synergetic Agro Forrestry
-Garbage in, everything out: convert local 'wastes into diverse, income generating forrest gardens, reducing pollution, generating fertile soil and sequestering carbon while doing so.
+Garbage in, everything out: convert local 'wastes' into diverse, income generating forrest gardens, reducing pollution, generating fertile soil and sequestering carbon.
 
-T
+The idea is to generate alternative models for land use to offset 
 ## Inputs
 * Organic 'wastes'
   * Wood chips
@@ -38,6 +38,7 @@ T
 * Input/output pollution monitoring
 * Aquaculture
 * Accounting
+* Hydrological system management (water retention)
 
 ## Maximize
 * Biomass
