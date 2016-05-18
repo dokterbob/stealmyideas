@@ -49,3 +49,6 @@ Every point were different sources or sinks interconnect are equipped with a gen
 1. Centrally *signed* firmware updates with rollback
 2. Communication fully encrypted using existing, battle-tested, protocols
 4. Microcontrollers for power conversion hermetically seperated from system control logic 
+
+# Further reading
+The underlying concepts have been largely described in [Nailing the Microgrid](http://dsrp.eu/post/123379831763/nailing-the-microgrid), a research endeavour made possible by [Metabolic](http://www.metabolic.nl/).
